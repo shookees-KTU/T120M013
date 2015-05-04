@@ -1,0 +1,3 @@
+[submodule "analizo"]
+	path = analizo
+	url = git@github.com:analizo/analizo.git
