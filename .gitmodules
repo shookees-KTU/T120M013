@@ -1,3 +1,6 @@
 [submodule "analizo"]
 	path = analizo
 	url = git@github.com:analizo/analizo.git
+[submodule "ckjm"]
+	path = ckjm
+	url = git@github.com:dspinellis/ckjm.git
