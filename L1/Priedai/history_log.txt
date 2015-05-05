@@ -1,0 +1,1773 @@
+------------------------------------------------------------------------
+r569 | arnaud_roques | 2015-05-03 18:21:48 +0300 (Sk, 03 Geg 2015) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r567 | arnaud_roques | 2015-05-03 18:21:35 +0300 (Sk, 03 Geg 2015) | 1 line
+
+[maven-release-plugin] prepare release plantuml-8024
+------------------------------------------------------------------------
+r566 | arnaud_roques | 2015-05-03 18:12:25 +0300 (Sk, 03 Geg 2015) | 1 line
+
+Version 8024
+------------------------------------------------------------------------
+r565 | arnaud_roques | 2015-04-20 23:05:55 +0300 (Pr, 20 Bal 2015) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r563 | arnaud_roques | 2015-04-20 23:05:50 +0300 (Pr, 20 Bal 2015) | 1 line
+
+[maven-release-plugin] prepare release plantuml-8023
+------------------------------------------------------------------------
+r562 | arnaud_roques | 2015-04-20 22:49:19 +0300 (Pr, 20 Bal 2015) | 1 line
+
+Version 8023
+------------------------------------------------------------------------
+r561 | arnaud_roques | 2015-04-07 22:31:04 +0300 (An, 07 Bal 2015) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r559 | arnaud_roques | 2015-04-07 22:30:58 +0300 (An, 07 Bal 2015) | 1 line
+
+[maven-release-plugin] prepare release plantuml-8022
+------------------------------------------------------------------------
+r558 | arnaud_roques | 2015-04-07 21:12:06 +0300 (An, 07 Bal 2015) | 1 line
+
+version 8022
+------------------------------------------------------------------------
+r557 | arnaud_roques | 2015-03-15 14:59:17 +0200 (Sk, 15 Kov 2015) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r555 | arnaud_roques | 2015-03-15 14:59:11 +0200 (Sk, 15 Kov 2015) | 1 line
+
+[maven-release-plugin] prepare release plantuml-8021
+------------------------------------------------------------------------
+r554 | arnaud_roques | 2015-03-14 20:20:25 +0200 (Št, 14 Kov 2015) | 1 line
+
+Version 8021
+------------------------------------------------------------------------
+r553 | arnaud_roques | 2015-02-15 16:41:31 +0200 (Sk, 15 Vas 2015) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r551 | arnaud_roques | 2015-02-15 16:41:26 +0200 (Sk, 15 Vas 2015) | 1 line
+
+[maven-release-plugin] prepare release plantuml-8020
+------------------------------------------------------------------------
+r550 | arnaud_roques | 2015-02-15 16:21:50 +0200 (Sk, 15 Vas 2015) | 1 line
+
+Version 8020
+------------------------------------------------------------------------
+r549 | arnaud_roques | 2015-02-03 20:20:05 +0200 (An, 03 Vas 2015) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r547 | arnaud_roques | 2015-02-03 20:19:59 +0200 (An, 03 Vas 2015) | 1 line
+
+[maven-release-plugin] prepare release plantuml-8019
+------------------------------------------------------------------------
+r546 | arnaud_roques | 2015-02-03 19:55:30 +0200 (An, 03 Vas 2015) | 1 line
+
+Version 8019
+------------------------------------------------------------------------
+r545 | arnaud_roques | 2015-01-14 21:51:44 +0200 (Tr, 14 Sau 2015) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r543 | arnaud_roques | 2015-01-14 21:51:29 +0200 (Tr, 14 Sau 2015) | 1 line
+
+[maven-release-plugin] prepare release plantuml-8018
+------------------------------------------------------------------------
+r542 | arnaud_roques | 2015-01-14 21:15:59 +0200 (Tr, 14 Sau 2015) | 1 line
+
+Version 8018
+------------------------------------------------------------------------
+r541 | arnaud_roques | 2015-01-09 00:31:27 +0200 (Pn, 09 Sau 2015) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r539 | arnaud_roques | 2015-01-09 00:31:21 +0200 (Pn, 09 Sau 2015) | 1 line
+
+[maven-release-plugin] prepare release plantuml-8017
+------------------------------------------------------------------------
+r538 | arnaud_roques | 2015-01-09 00:23:14 +0200 (Pn, 09 Sau 2015) | 1 line
+
+Version 8017
+------------------------------------------------------------------------
+r537 | arnaud_roques | 2015-01-05 21:18:39 +0200 (Pr, 05 Sau 2015) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r535 | arnaud_roques | 2015-01-05 21:18:32 +0200 (Pr, 05 Sau 2015) | 1 line
+
+[maven-release-plugin] prepare release plantuml-8016
+------------------------------------------------------------------------
+r534 | arnaud_roques | 2015-01-05 21:02:52 +0200 (Pr, 05 Sau 2015) | 1 line
+
+Version 8016
+------------------------------------------------------------------------
+r533 | arnaud_roques | 2014-12-17 17:38:34 +0200 (Tr, 17 Grd 2014) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r531 | arnaud_roques | 2014-12-17 17:38:27 +0200 (Tr, 17 Grd 2014) | 1 line
+
+[maven-release-plugin] prepare release plantuml-8015
+------------------------------------------------------------------------
+r530 | arnaud_roques | 2014-12-17 17:30:34 +0200 (Tr, 17 Grd 2014) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r528 | arnaud_roques | 2014-12-17 17:30:29 +0200 (Tr, 17 Grd 2014) | 1 line
+
+[maven-release-plugin] prepare release plantuml-8015
+------------------------------------------------------------------------
+r527 | arnaud_roques | 2014-12-14 17:52:43 +0200 (Sk, 14 Grd 2014) | 1 line
+
+Version 8015
+------------------------------------------------------------------------
+r526 | arnaud_roques | 2014-12-08 23:27:40 +0200 (Pr, 08 Grd 2014) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r524 | arnaud_roques | 2014-12-08 23:27:33 +0200 (Pr, 08 Grd 2014) | 1 line
+
+[maven-release-plugin] prepare release plantuml-8013
+------------------------------------------------------------------------
+r523 | arnaud_roques | 2014-12-08 23:12:57 +0200 (Pr, 08 Grd 2014) | 1 line
+
+Version 8013
+------------------------------------------------------------------------
+r522 | arnaud_roques | 2014-12-05 22:01:44 +0200 (Pn, 05 Grd 2014) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r520 | arnaud_roques | 2014-12-05 22:01:36 +0200 (Pn, 05 Grd 2014) | 1 line
+
+[maven-release-plugin] prepare release plantuml-8012
+------------------------------------------------------------------------
+r519 | arnaud_roques | 2014-12-05 21:55:30 +0200 (Pn, 05 Grd 2014) | 1 line
+
+Version 8012
+------------------------------------------------------------------------
+r518 | arnaud_roques | 2014-12-04 22:26:44 +0200 (Kt, 04 Grd 2014) | 1 line
+
+[maven-release-plugin] prepare release plantuml-8011
+------------------------------------------------------------------------
+r517 | arnaud_roques | 2014-12-04 22:20:36 +0200 (Kt, 04 Grd 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r516 | arnaud_roques | 2014-12-04 22:02:40 +0200 (Kt, 04 Grd 2014) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r514 | arnaud_roques | 2014-12-04 22:02:30 +0200 (Kt, 04 Grd 2014) | 1 line
+
+[maven-release-plugin] prepare release plantuml-8011
+------------------------------------------------------------------------
+r513 | arnaud_roques | 2014-12-04 21:56:12 +0200 (Kt, 04 Grd 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r512 | arnaud_roques | 2014-12-04 00:08:55 +0200 (Kt, 04 Grd 2014) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r510 | arnaud_roques | 2014-12-04 00:08:48 +0200 (Kt, 04 Grd 2014) | 1 line
+
+[maven-release-plugin] prepare release plantuml-8011
+------------------------------------------------------------------------
+r509 | arnaud_roques | 2014-12-04 00:00:43 +0200 (Kt, 04 Grd 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r508 | arnaud_roques | 2014-12-03 23:50:13 +0200 (Tr, 03 Grd 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r507 | arnaud_roques | 2014-12-03 21:00:38 +0200 (Tr, 03 Grd 2014) | 1 line
+
+Version 8011
+------------------------------------------------------------------------
+r506 | arnaud_roques | 2014-12-01 22:57:48 +0200 (Pr, 01 Grd 2014) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r504 | arnaud_roques | 2014-12-01 22:57:31 +0200 (Pr, 01 Grd 2014) | 1 line
+
+[maven-release-plugin] prepare release plantuml-8010
+------------------------------------------------------------------------
+r503 | arnaud_roques | 2014-12-01 19:55:26 +0200 (Pr, 01 Grd 2014) | 1 line
+
+Version 8010
+------------------------------------------------------------------------
+r502 | arnaud_roques | 2014-12-01 19:52:41 +0200 (Pr, 01 Grd 2014) | 1 line
+
+Version 8010
+------------------------------------------------------------------------
+r501 | arnaud_roques | 2014-09-26 00:10:38 +0300 (Pn, 26 Rgs 2014) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r499 | arnaud_roques | 2014-09-26 00:10:19 +0300 (Pn, 26 Rgs 2014) | 1 line
+
+[maven-release-plugin] prepare release plantuml-8008
+------------------------------------------------------------------------
+r498 | arnaud_roques | 2014-09-25 23:54:25 +0300 (Kt, 25 Rgs 2014) | 1 line
+
+Version 8008
+------------------------------------------------------------------------
+r497 | arnaud_roques | 2014-09-15 23:24:23 +0300 (Pr, 15 Rgs 2014) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r495 | arnaud_roques | 2014-09-15 23:24:05 +0300 (Pr, 15 Rgs 2014) | 1 line
+
+[maven-release-plugin] prepare release plantuml-8007
+------------------------------------------------------------------------
+r494 | arnaud_roques | 2014-09-15 23:13:12 +0300 (Pr, 15 Rgs 2014) | 1 line
+
+Version 8007
+------------------------------------------------------------------------
+r493 | arnaud_roques | 2014-09-14 23:47:28 +0300 (Sk, 14 Rgs 2014) | 1 line
+
+Version 8005
+------------------------------------------------------------------------
+r492 | arnaud_roques | 2014-08-23 21:22:27 +0300 (Št, 23 Rgp 2014) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r490 | arnaud_roques | 2014-08-23 21:22:11 +0300 (Št, 23 Rgp 2014) | 1 line
+
+[maven-release-plugin] prepare release plantuml-8004
+------------------------------------------------------------------------
+r489 | arnaud_roques | 2014-08-23 20:35:37 +0300 (Št, 23 Rgp 2014) | 1 line
+
+Version 8004
+------------------------------------------------------------------------
+r488 | arnaud_roques | 2014-08-22 21:25:18 +0300 (Pn, 22 Rgp 2014) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r486 | arnaud_roques | 2014-08-22 21:25:01 +0300 (Pn, 22 Rgp 2014) | 1 line
+
+[maven-release-plugin] prepare release plantuml-8003
+------------------------------------------------------------------------
+r485 | arnaud_roques | 2014-08-21 00:25:09 +0300 (Kt, 21 Rgp 2014) | 1 line
+
+Version 8003
+------------------------------------------------------------------------
+r484 | arnaud_roques | 2014-08-16 17:07:51 +0300 (Št, 16 Rgp 2014) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r482 | arnaud_roques | 2014-08-16 17:07:28 +0300 (Št, 16 Rgp 2014) | 1 line
+
+[maven-release-plugin] prepare release plantuml-8002
+------------------------------------------------------------------------
+r481 | arnaud_roques | 2014-08-16 15:39:27 +0300 (Št, 16 Rgp 2014) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r479 | arnaud_roques | 2014-08-16 15:39:09 +0300 (Št, 16 Rgp 2014) | 1 line
+
+[maven-release-plugin] prepare release plantuml-8002
+------------------------------------------------------------------------
+r478 | arnaud_roques | 2014-08-16 15:24:22 +0300 (Št, 16 Rgp 2014) | 1 line
+
+Version 8002
+------------------------------------------------------------------------
+r477 | arnaud_roques | 2014-07-21 21:53:33 +0300 (Pr, 21 Lie 2014) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r475 | arnaud_roques | 2014-07-21 21:53:12 +0300 (Pr, 21 Lie 2014) | 1 line
+
+[maven-release-plugin] prepare release plantuml-8001
+------------------------------------------------------------------------
+r474 | arnaud_roques | 2014-07-21 21:41:41 +0300 (Pr, 21 Lie 2014) | 1 line
+
+Version 8001
+------------------------------------------------------------------------
+r473 | arnaud_roques | 2014-06-23 21:23:32 +0300 (Pr, 23 Bir 2014) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r471 | arnaud_roques | 2014-06-23 21:23:16 +0300 (Pr, 23 Bir 2014) | 1 line
+
+[maven-release-plugin] prepare release plantuml-8000
+------------------------------------------------------------------------
+r470 | arnaud_roques | 2014-06-23 21:11:46 +0300 (Pr, 23 Bir 2014) | 1 line
+
+Version 8000
+------------------------------------------------------------------------
+r469 | arnaud_roques | 2014-05-14 23:46:12 +0300 (Tr, 14 Geg 2014) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r467 | arnaud_roques | 2014-05-14 23:45:54 +0300 (Tr, 14 Geg 2014) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7999
+------------------------------------------------------------------------
+r466 | arnaud_roques | 2014-05-14 23:23:03 +0300 (Tr, 14 Geg 2014) | 1 line
+
+Version 7999
+------------------------------------------------------------------------
+r465 | arnaud_roques | 2014-04-13 17:34:26 +0300 (Sk, 13 Bal 2014) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r463 | arnaud_roques | 2014-04-13 17:34:11 +0300 (Sk, 13 Bal 2014) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7997
+------------------------------------------------------------------------
+r462 | arnaud_roques | 2014-04-13 14:25:06 +0300 (Sk, 13 Bal 2014) | 1 line
+
+Version 7997
+------------------------------------------------------------------------
+r461 | arnaud_roques | 2014-03-19 20:27:08 +0200 (Tr, 19 Kov 2014) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r459 | arnaud_roques | 2014-03-19 20:26:49 +0200 (Tr, 19 Kov 2014) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7995
+------------------------------------------------------------------------
+r458 | arnaud_roques | 2014-03-19 20:14:54 +0200 (Tr, 19 Kov 2014) | 1 line
+
+Version 7995
+------------------------------------------------------------------------
+r457 | arnaud_roques | 2014-03-03 23:59:27 +0200 (Pr, 03 Kov 2014) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r455 | arnaud_roques | 2014-03-03 23:59:12 +0200 (Pr, 03 Kov 2014) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7994
+------------------------------------------------------------------------
+r454 | arnaud_roques | 2014-03-03 21:24:13 +0200 (Pr, 03 Kov 2014) | 1 line
+
+Version 7994
+------------------------------------------------------------------------
+r453 | arnaud_roques | 2014-02-22 23:29:34 +0200 (Št, 22 Vas 2014) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r451 | arnaud_roques | 2014-02-22 23:29:15 +0200 (Št, 22 Vas 2014) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7993
+------------------------------------------------------------------------
+r450 | arnaud_roques | 2014-02-22 23:02:51 +0200 (Št, 22 Vas 2014) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r448 | arnaud_roques | 2014-02-22 23:02:25 +0200 (Št, 22 Vas 2014) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7993
+------------------------------------------------------------------------
+r447 | arnaud_roques | 2014-02-22 22:55:01 +0200 (Št, 22 Vas 2014) | 1 line
+
+Version 7993
+------------------------------------------------------------------------
+r446 | arnaud_roques | 2014-02-21 20:51:31 +0200 (Pn, 21 Vas 2014) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r444 | arnaud_roques | 2014-02-21 20:51:15 +0200 (Pn, 21 Vas 2014) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7992
+------------------------------------------------------------------------
+r443 | arnaud_roques | 2014-02-21 20:41:58 +0200 (Pn, 21 Vas 2014) | 1 line
+
+Version 7992
+------------------------------------------------------------------------
+r442 | arnaud_roques | 2014-01-21 23:23:28 +0200 (An, 21 Sau 2014) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r440 | arnaud_roques | 2014-01-21 23:23:14 +0200 (An, 21 Sau 2014) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7991
+------------------------------------------------------------------------
+r439 | arnaud_roques | 2014-01-21 22:24:33 +0200 (An, 21 Sau 2014) | 1 line
+
+Version 7991
+------------------------------------------------------------------------
+r438 | arnaud_roques | 2014-01-05 15:38:57 +0200 (Sk, 05 Sau 2014) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r436 | arnaud_roques | 2014-01-05 15:38:43 +0200 (Sk, 05 Sau 2014) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7990
+------------------------------------------------------------------------
+r435 | arnaud_roques | 2014-01-05 15:15:38 +0200 (Sk, 05 Sau 2014) | 1 line
+
+Version 7990
+------------------------------------------------------------------------
+r434 | arnaud_roques | 2014-01-02 21:51:07 +0200 (Kt, 02 Sau 2014) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r432 | arnaud_roques | 2014-01-02 21:50:49 +0200 (Kt, 02 Sau 2014) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7989
+------------------------------------------------------------------------
+r431 | arnaud_roques | 2014-01-02 21:28:26 +0200 (Kt, 02 Sau 2014) | 1 line
+
+Version 7989
+------------------------------------------------------------------------
+r430 | arnaud_roques | 2013-12-10 19:50:33 +0200 (An, 10 Grd 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r428 | arnaud_roques | 2013-12-10 19:50:20 +0200 (An, 10 Grd 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7988
+------------------------------------------------------------------------
+r427 | arnaud_roques | 2013-12-10 19:31:34 +0200 (An, 10 Grd 2013) | 1 line
+
+Version 7988
+------------------------------------------------------------------------
+r426 | arnaud_roques | 2013-12-09 22:49:51 +0200 (Pr, 09 Grd 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r424 | arnaud_roques | 2013-12-09 22:49:35 +0200 (Pr, 09 Grd 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7987
+------------------------------------------------------------------------
+r423 | arnaud_roques | 2013-12-09 21:13:43 +0200 (Pr, 09 Grd 2013) | 1 line
+
+Version 7987
+------------------------------------------------------------------------
+r422 | arnaud_roques | 2013-11-18 00:43:36 +0200 (Pr, 18 Lap 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r420 | arnaud_roques | 2013-11-18 00:43:20 +0200 (Pr, 18 Lap 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7986
+------------------------------------------------------------------------
+r419 | arnaud_roques | 2013-11-18 00:30:59 +0200 (Pr, 18 Lap 2013) | 1 line
+
+
+------------------------------------------------------------------------
+r418 | arnaud_roques | 2013-11-18 00:08:04 +0200 (Pr, 18 Lap 2013) | 1 line
+
+Version 7986
+------------------------------------------------------------------------
+r417 | arnaud_roques | 2013-10-30 21:11:23 +0200 (Tr, 30 Spa 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r415 | arnaud_roques | 2013-10-30 21:11:08 +0200 (Tr, 30 Spa 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7985
+------------------------------------------------------------------------
+r414 | arnaud_roques | 2013-10-30 20:53:30 +0200 (Tr, 30 Spa 2013) | 1 line
+
+Version 7985
+------------------------------------------------------------------------
+r413 | arnaud_roques | 2013-10-28 22:15:39 +0200 (Pr, 28 Spa 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r411 | arnaud_roques | 2013-10-28 22:15:25 +0200 (Pr, 28 Spa 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7984
+------------------------------------------------------------------------
+r410 | arnaud_roques | 2013-10-28 21:46:12 +0200 (Pr, 28 Spa 2013) | 1 line
+
+Version 7984
+------------------------------------------------------------------------
+r409 | arnaud_roques | 2013-10-19 15:12:08 +0300 (Št, 19 Spa 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r407 | arnaud_roques | 2013-10-19 15:11:50 +0300 (Št, 19 Spa 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7983
+------------------------------------------------------------------------
+r406 | arnaud_roques | 2013-10-19 12:53:55 +0300 (Št, 19 Spa 2013) | 1 line
+
+Version 7983
+------------------------------------------------------------------------
+r405 | arnaud_roques | 2013-10-12 23:51:51 +0300 (Št, 12 Spa 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r403 | arnaud_roques | 2013-10-12 23:51:35 +0300 (Št, 12 Spa 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7982
+------------------------------------------------------------------------
+r402 | arnaud_roques | 2013-10-12 23:25:49 +0300 (Št, 12 Spa 2013) | 1 line
+
+Version 7982
+------------------------------------------------------------------------
+r401 | arnaud_roques | 2013-09-30 23:16:16 +0300 (Pr, 30 Rgs 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r399 | arnaud_roques | 2013-09-30 23:15:58 +0300 (Pr, 30 Rgs 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7981
+------------------------------------------------------------------------
+r398 | arnaud_roques | 2013-09-30 22:54:38 +0300 (Pr, 30 Rgs 2013) | 1 line
+
+Version 7981
+------------------------------------------------------------------------
+r397 | arnaud_roques | 2013-09-18 21:09:33 +0300 (Tr, 18 Rgs 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r395 | arnaud_roques | 2013-09-18 21:09:06 +0300 (Tr, 18 Rgs 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7980
+------------------------------------------------------------------------
+r394 | arnaud_roques | 2013-09-18 20:15:36 +0300 (Tr, 18 Rgs 2013) | 1 line
+
+Version 7980
+------------------------------------------------------------------------
+r393 | arnaud_roques | 2013-09-13 19:28:24 +0300 (Pn, 13 Rgs 2013) | 1 line
+
+Adding SDL feature
+------------------------------------------------------------------------
+r392 | arnaud_roques | 2013-09-04 23:14:12 +0300 (Tr, 04 Rgs 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r390 | arnaud_roques | 2013-09-04 23:13:51 +0300 (Tr, 04 Rgs 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7979
+------------------------------------------------------------------------
+r389 | arnaud_roques | 2013-09-04 22:47:03 +0300 (Tr, 04 Rgs 2013) | 1 line
+
+Version 7979
+------------------------------------------------------------------------
+r388 | arnaud_roques | 2013-08-27 23:20:33 +0300 (An, 27 Rgp 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r386 | arnaud_roques | 2013-08-27 23:20:11 +0300 (An, 27 Rgp 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7978
+------------------------------------------------------------------------
+r385 | arnaud_roques | 2013-08-27 22:49:53 +0300 (An, 27 Rgp 2013) | 1 line
+
+Version 7978
+------------------------------------------------------------------------
+r384 | arnaud_roques | 2013-08-25 21:32:34 +0300 (Sk, 25 Rgp 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r382 | arnaud_roques | 2013-08-25 21:32:14 +0300 (Sk, 25 Rgp 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7977
+------------------------------------------------------------------------
+r381 | arnaud_roques | 2013-08-25 20:33:07 +0300 (Sk, 25 Rgp 2013) | 1 line
+
+Version 7977
+------------------------------------------------------------------------
+r380 | arnaud_roques | 2013-08-01 21:04:24 +0300 (Kt, 01 Rgp 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r378 | arnaud_roques | 2013-08-01 21:04:07 +0300 (Kt, 01 Rgp 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7976
+------------------------------------------------------------------------
+r377 | arnaud_roques | 2013-08-01 20:44:12 +0300 (Kt, 01 Rgp 2013) | 1 line
+
+Version 7976
+------------------------------------------------------------------------
+r376 | arnaud_roques | 2013-07-31 23:07:21 +0300 (Tr, 31 Lie 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r374 | arnaud_roques | 2013-07-31 23:07:01 +0300 (Tr, 31 Lie 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7975
+------------------------------------------------------------------------
+r373 | arnaud_roques | 2013-07-31 22:46:04 +0300 (Tr, 31 Lie 2013) | 1 line
+
+Version 7975
+------------------------------------------------------------------------
+r372 | arnaud_roques | 2013-07-30 23:41:38 +0300 (An, 30 Lie 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r370 | arnaud_roques | 2013-07-30 23:41:19 +0300 (An, 30 Lie 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7974
+------------------------------------------------------------------------
+r369 | arnaud_roques | 2013-07-30 23:32:41 +0300 (An, 30 Lie 2013) | 1 line
+
+Version 7974
+------------------------------------------------------------------------
+r368 | arnaud_roques | 2013-07-25 00:01:22 +0300 (Kt, 25 Lie 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r366 | arnaud_roques | 2013-07-25 00:01:01 +0300 (Kt, 25 Lie 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7973
+------------------------------------------------------------------------
+r365 | arnaud_roques | 2013-07-24 23:26:51 +0300 (Tr, 24 Lie 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r363 | arnaud_roques | 2013-07-24 23:26:34 +0300 (Tr, 24 Lie 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7973
+------------------------------------------------------------------------
+r362 | arnaud_roques | 2013-07-24 23:13:41 +0300 (Tr, 24 Lie 2013) | 1 line
+
+Version 7973
+------------------------------------------------------------------------
+r361 | arnaud_roques | 2013-07-17 23:22:05 +0300 (Tr, 17 Lie 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r359 | arnaud_roques | 2013-07-17 23:21:50 +0300 (Tr, 17 Lie 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7972
+------------------------------------------------------------------------
+r358 | arnaud_roques | 2013-07-17 22:19:23 +0300 (Tr, 17 Lie 2013) | 1 line
+
+Version 7972
+------------------------------------------------------------------------
+r357 | arnaud_roques | 2013-07-03 22:33:33 +0300 (Tr, 03 Lie 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r355 | arnaud_roques | 2013-07-03 22:33:00 +0300 (Tr, 03 Lie 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7971
+------------------------------------------------------------------------
+r354 | arnaud_roques | 2013-07-03 22:10:39 +0300 (Tr, 03 Lie 2013) | 1 line
+
+Version 7971
+------------------------------------------------------------------------
+r353 | arnaud_roques | 2013-07-01 23:31:58 +0300 (Pr, 01 Lie 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r351 | arnaud_roques | 2013-07-01 23:31:41 +0300 (Pr, 01 Lie 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7970
+------------------------------------------------------------------------
+r350 | arnaud_roques | 2013-07-01 21:44:51 +0300 (Pr, 01 Lie 2013) | 1 line
+
+Version 7970
+------------------------------------------------------------------------
+r349 | arnaud_roques | 2013-05-25 19:02:45 +0300 (Št, 25 Geg 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r347 | arnaud_roques | 2013-05-25 19:02:22 +0300 (Št, 25 Geg 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7968
+------------------------------------------------------------------------
+r346 | arnaud_roques | 2013-05-25 18:49:43 +0300 (Št, 25 Geg 2013) | 1 line
+
+Version 7968
+------------------------------------------------------------------------
+r345 | arnaud_roques | 2013-05-22 21:39:16 +0300 (Tr, 22 Geg 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r343 | arnaud_roques | 2013-05-22 21:39:00 +0300 (Tr, 22 Geg 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7967
+------------------------------------------------------------------------
+r342 | arnaud_roques | 2013-05-22 21:15:24 +0300 (Tr, 22 Geg 2013) | 1 line
+
+Version 7967
+------------------------------------------------------------------------
+r341 | arnaud_roques | 2013-05-18 19:52:24 +0300 (Št, 18 Geg 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r339 | arnaud_roques | 2013-05-18 19:52:08 +0300 (Št, 18 Geg 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7966
+------------------------------------------------------------------------
+r338 | arnaud_roques | 2013-05-18 17:34:57 +0300 (Št, 18 Geg 2013) | 1 line
+
+Version 7966
+------------------------------------------------------------------------
+r337 | arnaud_roques | 2013-04-30 09:05:41 +0300 (An, 30 Bal 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r335 | arnaud_roques | 2013-04-30 09:05:02 +0300 (An, 30 Bal 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7965
+------------------------------------------------------------------------
+r334 | arnaud_roques | 2013-04-30 08:54:50 +0300 (An, 30 Bal 2013) | 1 line
+
+Version 7965
+------------------------------------------------------------------------
+r333 | arnaud_roques | 2013-04-15 22:46:20 +0300 (Pr, 15 Bal 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r331 | arnaud_roques | 2013-04-15 22:45:46 +0300 (Pr, 15 Bal 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7963
+------------------------------------------------------------------------
+r330 | arnaud_roques | 2013-04-15 22:34:54 +0300 (Pr, 15 Bal 2013) | 1 line
+
+Version 7963
+------------------------------------------------------------------------
+r329 | arnaud_roques | 2013-04-06 00:20:51 +0300 (Št, 06 Bal 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r327 | arnaud_roques | 2013-04-06 00:17:45 +0300 (Št, 06 Bal 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7962
+------------------------------------------------------------------------
+r326 | arnaud_roques | 2013-04-05 23:58:02 +0300 (Pn, 05 Bal 2013) | 1 line
+
+Version 7962
+------------------------------------------------------------------------
+r325 | arnaud_roques | 2013-03-25 22:32:12 +0200 (Pr, 25 Kov 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r323 | arnaud_roques | 2013-03-25 22:31:55 +0200 (Pr, 25 Kov 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7961
+------------------------------------------------------------------------
+r322 | arnaud_roques | 2013-03-25 22:21:59 +0200 (Pr, 25 Kov 2013) | 1 line
+
+Version 7961
+------------------------------------------------------------------------
+r321 | arnaud_roques | 2013-03-20 22:28:04 +0200 (Tr, 20 Kov 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r319 | arnaud_roques | 2013-03-20 22:27:46 +0200 (Tr, 20 Kov 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7960
+------------------------------------------------------------------------
+r318 | arnaud_roques | 2013-03-20 07:58:15 +0200 (Tr, 20 Kov 2013) | 1 line
+
+Version 7960
+------------------------------------------------------------------------
+r317 | arnaud_roques | 2013-02-28 23:44:31 +0200 (Kt, 28 Vas 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r315 | arnaud_roques | 2013-02-28 23:44:03 +0200 (Kt, 28 Vas 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7959
+------------------------------------------------------------------------
+r314 | arnaud_roques | 2013-02-28 23:32:10 +0200 (Kt, 28 Vas 2013) | 1 line
+
+Version 7959
+------------------------------------------------------------------------
+r313 | arnaud_roques | 2013-02-18 22:24:42 +0200 (Pr, 18 Vas 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r311 | arnaud_roques | 2013-02-18 22:24:28 +0200 (Pr, 18 Vas 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7958
+------------------------------------------------------------------------
+r310 | arnaud_roques | 2013-02-18 22:16:02 +0200 (Pr, 18 Vas 2013) | 1 line
+
+Version 7958
+------------------------------------------------------------------------
+r309 | arnaud_roques | 2013-02-12 21:16:21 +0200 (An, 12 Vas 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r307 | arnaud_roques | 2013-02-12 21:15:57 +0200 (An, 12 Vas 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7957
+------------------------------------------------------------------------
+r306 | arnaud_roques | 2013-02-12 21:02:17 +0200 (An, 12 Vas 2013) | 1 line
+
+Version 7957
+------------------------------------------------------------------------
+r305 | arnaud_roques | 2013-02-11 21:12:30 +0200 (Pr, 11 Vas 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r303 | arnaud_roques | 2013-02-11 21:12:11 +0200 (Pr, 11 Vas 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7956
+------------------------------------------------------------------------
+r302 | arnaud_roques | 2013-02-11 08:28:00 +0200 (Pr, 11 Vas 2013) | 1 line
+
+Version 7956
+------------------------------------------------------------------------
+r301 | arnaud_roques | 2013-02-06 21:00:41 +0200 (Tr, 06 Vas 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r299 | arnaud_roques | 2013-02-06 21:00:17 +0200 (Tr, 06 Vas 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7955
+------------------------------------------------------------------------
+r298 | arnaud_roques | 2013-02-06 20:28:00 +0200 (Tr, 06 Vas 2013) | 1 line
+
+Version 7955
+------------------------------------------------------------------------
+r297 | arnaud_roques | 2013-01-29 22:24:08 +0200 (An, 29 Sau 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r295 | arnaud_roques | 2013-01-29 22:23:47 +0200 (An, 29 Sau 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7954
+------------------------------------------------------------------------
+r294 | arnaud_roques | 2013-01-29 20:45:35 +0200 (An, 29 Sau 2013) | 1 line
+
+Version 7954
+------------------------------------------------------------------------
+r293 | arnaud_roques | 2013-01-27 18:55:55 +0200 (Sk, 27 Sau 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r291 | arnaud_roques | 2013-01-27 18:55:38 +0200 (Sk, 27 Sau 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7953
+------------------------------------------------------------------------
+r290 | arnaud_roques | 2013-01-27 18:06:44 +0200 (Sk, 27 Sau 2013) | 1 line
+
+Version 7953
+------------------------------------------------------------------------
+r289 | arnaud_roques | 2013-01-23 21:57:34 +0200 (Tr, 23 Sau 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r287 | arnaud_roques | 2013-01-23 21:57:12 +0200 (Tr, 23 Sau 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7952
+------------------------------------------------------------------------
+r286 | arnaud_roques | 2013-01-23 21:20:40 +0200 (Tr, 23 Sau 2013) | 1 line
+
+Version 7952
+------------------------------------------------------------------------
+r285 | arnaud_roques | 2013-01-21 22:28:13 +0200 (Pr, 21 Sau 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r283 | arnaud_roques | 2013-01-21 22:27:58 +0200 (Pr, 21 Sau 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7951
+------------------------------------------------------------------------
+r282 | arnaud_roques | 2013-01-21 21:29:04 +0200 (Pr, 21 Sau 2013) | 1 line
+
+Version 7951
+------------------------------------------------------------------------
+r281 | arnaud_roques | 2013-01-14 00:06:41 +0200 (Pr, 14 Sau 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r279 | arnaud_roques | 2013-01-14 00:06:26 +0200 (Pr, 14 Sau 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7949
+------------------------------------------------------------------------
+r278 | arnaud_roques | 2013-01-13 21:09:40 +0200 (Sk, 13 Sau 2013) | 1 line
+
+Version 7949
+------------------------------------------------------------------------
+r277 | arnaud_roques | 2013-01-02 23:45:20 +0200 (Tr, 02 Sau 2013) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r275 | arnaud_roques | 2013-01-02 23:45:00 +0200 (Tr, 02 Sau 2013) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7948
+------------------------------------------------------------------------
+r274 | arnaud_roques | 2013-01-02 23:24:22 +0200 (Tr, 02 Sau 2013) | 1 line
+
+Version 7948
+------------------------------------------------------------------------
+r273 | arnaud_roques | 2012-12-21 20:02:01 +0200 (Pn, 21 Grd 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r271 | arnaud_roques | 2012-12-21 20:01:48 +0200 (Pn, 21 Grd 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7947
+------------------------------------------------------------------------
+r270 | arnaud_roques | 2012-12-19 20:52:17 +0200 (Tr, 19 Grd 2012) | 1 line
+
+Version 7947
+------------------------------------------------------------------------
+r269 | arnaud_roques | 2012-12-15 23:34:34 +0200 (Št, 15 Grd 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r267 | arnaud_roques | 2012-12-15 23:34:20 +0200 (Št, 15 Grd 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7946
+------------------------------------------------------------------------
+r266 | arnaud_roques | 2012-12-15 23:08:14 +0200 (Št, 15 Grd 2012) | 1 line
+
+Version 7946
+------------------------------------------------------------------------
+r265 | arnaud_roques | 2012-12-12 23:53:01 +0200 (Tr, 12 Grd 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r263 | arnaud_roques | 2012-12-12 23:52:47 +0200 (Tr, 12 Grd 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7945
+------------------------------------------------------------------------
+r262 | arnaud_roques | 2012-12-12 23:02:34 +0200 (Tr, 12 Grd 2012) | 1 line
+
+Version 7945
+------------------------------------------------------------------------
+r261 | arnaud_roques | 2012-12-08 19:15:15 +0200 (Št, 08 Grd 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r259 | arnaud_roques | 2012-12-08 19:14:54 +0200 (Št, 08 Grd 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7944
+------------------------------------------------------------------------
+r258 | arnaud_roques | 2012-12-08 14:59:10 +0200 (Št, 08 Grd 2012) | 1 line
+
+Version 7944
+------------------------------------------------------------------------
+r257 | arnaud_roques | 2012-12-05 21:16:36 +0200 (Tr, 05 Grd 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r255 | arnaud_roques | 2012-12-05 21:16:17 +0200 (Tr, 05 Grd 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7943
+------------------------------------------------------------------------
+r254 | arnaud_roques | 2012-12-05 20:29:41 +0200 (Tr, 05 Grd 2012) | 1 line
+
+Version 7943
+------------------------------------------------------------------------
+r253 | arnaud_roques | 2012-11-27 23:51:33 +0200 (An, 27 Lap 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r251 | arnaud_roques | 2012-11-27 23:51:20 +0200 (An, 27 Lap 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7942
+------------------------------------------------------------------------
+r250 | arnaud_roques | 2012-11-27 23:43:16 +0200 (An, 27 Lap 2012) | 1 line
+
+Version 7942
+------------------------------------------------------------------------
+r249 | arnaud_roques | 2012-11-21 00:08:10 +0200 (Tr, 21 Lap 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r247 | arnaud_roques | 2012-11-21 00:07:34 +0200 (Tr, 21 Lap 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7941
+------------------------------------------------------------------------
+r246 | arnaud_roques | 2012-11-20 21:17:35 +0200 (An, 20 Lap 2012) | 1 line
+
+Version 7941
+------------------------------------------------------------------------
+r245 | arnaud_roques | 2012-11-11 12:21:05 +0200 (Sk, 11 Lap 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r243 | arnaud_roques | 2012-11-11 12:20:20 +0200 (Sk, 11 Lap 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7940
+------------------------------------------------------------------------
+r242 | arnaud_roques | 2012-11-11 12:13:21 +0200 (Sk, 11 Lap 2012) | 1 line
+
+Commit error
+------------------------------------------------------------------------
+r241 | arnaud_roques | 2012-11-10 15:43:45 +0200 (Št, 10 Lap 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r239 | arnaud_roques | 2012-11-10 15:43:14 +0200 (Št, 10 Lap 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7940
+------------------------------------------------------------------------
+r238 | arnaud_roques | 2012-11-10 15:30:28 +0200 (Št, 10 Lap 2012) | 1 line
+
+Version 7940
+------------------------------------------------------------------------
+r237 | arnaud_roques | 2012-10-25 08:38:55 +0300 (Kt, 25 Spa 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r235 | arnaud_roques | 2012-10-25 08:38:22 +0300 (Kt, 25 Spa 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7939
+------------------------------------------------------------------------
+r234 | arnaud_roques | 2012-10-25 08:28:47 +0300 (Kt, 25 Spa 2012) | 1 line
+
+Version 7939
+------------------------------------------------------------------------
+r233 | arnaud_roques | 2012-10-15 21:32:43 +0300 (Pr, 15 Spa 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r231 | arnaud_roques | 2012-10-15 21:32:10 +0300 (Pr, 15 Spa 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7938
+------------------------------------------------------------------------
+r230 | arnaud_roques | 2012-10-15 21:17:55 +0300 (Pr, 15 Spa 2012) | 1 line
+
+Version 7938
+------------------------------------------------------------------------
+r229 | arnaud_roques | 2012-10-02 22:11:00 +0300 (An, 02 Spa 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r227 | arnaud_roques | 2012-10-02 22:10:21 +0300 (An, 02 Spa 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7936
+------------------------------------------------------------------------
+r226 | arnaud_roques | 2012-10-02 20:07:22 +0300 (An, 02 Spa 2012) | 1 line
+
+Version 7936
+------------------------------------------------------------------------
+r225 | arnaud_roques | 2012-09-16 00:09:46 +0300 (Sk, 16 Rgs 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r223 | arnaud_roques | 2012-09-16 00:09:13 +0300 (Sk, 16 Rgs 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7936
+------------------------------------------------------------------------
+r222 | arnaud_roques | 2012-09-15 21:51:37 +0300 (Št, 15 Rgs 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r220 | arnaud_roques | 2012-09-15 21:51:08 +0300 (Št, 15 Rgs 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7935
+------------------------------------------------------------------------
+r219 | arnaud_roques | 2012-09-15 21:42:42 +0300 (Št, 15 Rgs 2012) | 1 line
+
+Version 7935
+------------------------------------------------------------------------
+r218 | arnaud_roques | 2012-09-09 22:36:55 +0300 (Sk, 09 Rgs 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r216 | arnaud_roques | 2012-09-09 22:36:27 +0300 (Sk, 09 Rgs 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7934
+------------------------------------------------------------------------
+r215 | arnaud_roques | 2012-09-09 22:26:08 +0300 (Sk, 09 Rgs 2012) | 1 line
+
+Version 7934
+------------------------------------------------------------------------
+r214 | arnaud_roques | 2012-08-02 21:05:46 +0300 (Kt, 02 Rgp 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r212 | arnaud_roques | 2012-08-02 21:05:17 +0300 (Kt, 02 Rgp 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7933
+------------------------------------------------------------------------
+r211 | arnaud_roques | 2012-08-02 20:55:03 +0300 (Kt, 02 Rgp 2012) | 1 line
+
+Version 7933
+------------------------------------------------------------------------
+r210 | arnaud_roques | 2012-07-31 21:15:26 +0300 (An, 31 Lie 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r208 | arnaud_roques | 2012-07-31 21:14:58 +0300 (An, 31 Lie 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7932
+------------------------------------------------------------------------
+r207 | arnaud_roques | 2012-07-31 21:02:34 +0300 (An, 31 Lie 2012) | 1 line
+
+Version 7932
+------------------------------------------------------------------------
+r206 | arnaud_roques | 2012-07-16 21:00:33 +0300 (Pr, 16 Lie 2012) | 1 line
+
+Unused file
+------------------------------------------------------------------------
+r205 | arnaud_roques | 2012-07-09 21:17:48 +0300 (Pr, 09 Lie 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r203 | arnaud_roques | 2012-07-09 21:17:17 +0300 (Pr, 09 Lie 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7931
+------------------------------------------------------------------------
+r202 | arnaud_roques | 2012-07-09 21:04:52 +0300 (Pr, 09 Lie 2012) | 1 line
+
+Version 7931
+------------------------------------------------------------------------
+r201 | arnaud_roques | 2012-06-28 23:47:44 +0300 (Kt, 28 Bir 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r199 | arnaud_roques | 2012-06-28 23:47:17 +0300 (Kt, 28 Bir 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7930
+------------------------------------------------------------------------
+r198 | arnaud_roques | 2012-06-28 21:01:35 +0300 (Kt, 28 Bir 2012) | 1 line
+
+version 7930
+------------------------------------------------------------------------
+r197 | arnaud_roques | 2012-05-20 12:25:32 +0300 (Sk, 20 Geg 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r195 | arnaud_roques | 2012-05-20 12:25:04 +0300 (Sk, 20 Geg 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7929
+------------------------------------------------------------------------
+r194 | arnaud_roques | 2012-05-20 12:02:27 +0300 (Sk, 20 Geg 2012) | 1 line
+
+Version 7929
+------------------------------------------------------------------------
+r193 | arnaud_roques | 2012-05-10 23:51:08 +0300 (Kt, 10 Geg 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r191 | arnaud_roques | 2012-05-10 23:50:38 +0300 (Kt, 10 Geg 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7876
+------------------------------------------------------------------------
+r190 | arnaud_roques | 2012-05-10 23:18:38 +0300 (Kt, 10 Geg 2012) | 1 line
+
+Version 7876
+------------------------------------------------------------------------
+r189 | arnaud_roques | 2012-04-18 02:53:46 +0300 (Tr, 18 Bal 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r187 | arnaud_roques | 2012-04-18 02:53:18 +0300 (Tr, 18 Bal 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7746
+------------------------------------------------------------------------
+r186 | arnaud_roques | 2012-04-17 08:48:16 +0300 (An, 17 Bal 2012) | 1 line
+
+Version 7746
+------------------------------------------------------------------------
+r185 | arnaud_roques | 2012-03-31 00:28:58 +0300 (Št, 31 Kov 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r183 | arnaud_roques | 2012-03-31 00:28:30 +0300 (Št, 31 Kov 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7726
+------------------------------------------------------------------------
+r182 | arnaud_roques | 2012-03-30 23:54:28 +0300 (Pn, 30 Kov 2012) | 1 line
+
+Version 7726
+------------------------------------------------------------------------
+r181 | arnaud_roques | 2012-03-18 20:33:59 +0200 (Sk, 18 Kov 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r179 | arnaud_roques | 2012-03-18 20:33:29 +0200 (Sk, 18 Kov 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7707
+------------------------------------------------------------------------
+r178 | arnaud_roques | 2012-03-18 17:14:37 +0200 (Sk, 18 Kov 2012) | 1 line
+
+Version 7707
+------------------------------------------------------------------------
+r177 | arnaud_roques | 2012-02-26 20:56:06 +0200 (Sk, 26 Vas 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r175 | arnaud_roques | 2012-02-26 20:55:37 +0200 (Sk, 26 Vas 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7701
+------------------------------------------------------------------------
+r174 | arnaud_roques | 2012-02-26 20:28:48 +0200 (Sk, 26 Vas 2012) | 1 line
+
+Version 7701
+------------------------------------------------------------------------
+r173 | arnaud_roques | 2012-02-14 20:58:10 +0200 (An, 14 Vas 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r171 | arnaud_roques | 2012-02-14 20:57:11 +0200 (An, 14 Vas 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7650
+------------------------------------------------------------------------
+r170 | arnaud_roques | 2012-02-14 19:59:03 +0200 (An, 14 Vas 2012) | 1 line
+
+Version 7650
+------------------------------------------------------------------------
+r169 | arnaud_roques | 2012-01-30 23:29:48 +0200 (Pr, 30 Sau 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r167 | arnaud_roques | 2012-01-30 23:29:20 +0200 (Pr, 30 Sau 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7622
+------------------------------------------------------------------------
+r166 | arnaud_roques | 2012-01-30 21:05:11 +0200 (Pr, 30 Sau 2012) | 1 line
+
+Version 7622
+------------------------------------------------------------------------
+r165 | arnaud_roques | 2012-01-14 17:26:11 +0200 (Št, 14 Sau 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r163 | arnaud_roques | 2012-01-14 17:25:36 +0200 (Št, 14 Sau 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7560
+------------------------------------------------------------------------
+r162 | arnaud_roques | 2012-01-14 17:08:07 +0200 (Št, 14 Sau 2012) | 1 line
+
+Version 7560
+------------------------------------------------------------------------
+r161 | arnaud_roques | 2012-01-08 20:32:55 +0200 (Sk, 08 Sau 2012) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r159 | arnaud_roques | 2012-01-08 20:32:21 +0200 (Sk, 08 Sau 2012) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7535
+------------------------------------------------------------------------
+r158 | arnaud_roques | 2012-01-08 20:07:18 +0200 (Sk, 08 Sau 2012) | 1 line
+
+Version 7535
+------------------------------------------------------------------------
+r157 | arnaud_roques | 2011-12-12 20:18:41 +0200 (Pr, 12 Grd 2011) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r155 | arnaud_roques | 2011-12-12 20:18:01 +0200 (Pr, 12 Grd 2011) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7500
+------------------------------------------------------------------------
+r154 | arnaud_roques | 2011-12-12 20:05:43 +0200 (Pr, 12 Grd 2011) | 1 line
+
+Maven error
+------------------------------------------------------------------------
+r153 | arnaud_roques | 2011-12-12 19:35:25 +0200 (Pr, 12 Grd 2011) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r151 | arnaud_roques | 2011-12-12 19:34:55 +0200 (Pr, 12 Grd 2011) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7500
+------------------------------------------------------------------------
+r150 | arnaud_roques | 2011-12-12 19:23:13 +0200 (Pr, 12 Grd 2011) | 1 line
+
+Version 7500
+------------------------------------------------------------------------
+r149 | arnaud_roques | 2011-12-11 15:26:59 +0200 (Sk, 11 Grd 2011) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r147 | arnaud_roques | 2011-12-11 15:25:56 +0200 (Sk, 11 Grd 2011) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7497
+------------------------------------------------------------------------
+r146 | arnaud_roques | 2011-12-11 15:11:18 +0200 (Sk, 11 Grd 2011) | 1 line
+
+Version 7497
+------------------------------------------------------------------------
+r145 | arnaud_roques | 2011-10-31 21:52:29 +0200 (Pr, 31 Spa 2011) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r143 | arnaud_roques | 2011-10-31 21:50:59 +0200 (Pr, 31 Spa 2011) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7481
+------------------------------------------------------------------------
+r142 | arnaud_roques | 2011-10-31 20:34:18 +0200 (Pr, 31 Spa 2011) | 1 line
+
+Version 7481
+------------------------------------------------------------------------
+r141 | arnaud_roques | 2011-10-27 23:40:28 +0300 (Kt, 27 Spa 2011) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r139 | arnaud_roques | 2011-10-27 23:39:58 +0300 (Kt, 27 Spa 2011) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7475
+------------------------------------------------------------------------
+r138 | arnaud_roques | 2011-10-27 01:40:10 +0300 (Kt, 27 Spa 2011) | 1 line
+
+Version 7475
+------------------------------------------------------------------------
+r137 | arnaud_roques | 2011-10-13 00:55:34 +0300 (Kt, 13 Spa 2011) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r135 | arnaud_roques | 2011-10-13 00:55:04 +0300 (Kt, 13 Spa 2011) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7385
+------------------------------------------------------------------------
+r134 | arnaud_roques | 2011-10-13 00:47:43 +0300 (Kt, 13 Spa 2011) | 1 line
+
+Version 7385
+------------------------------------------------------------------------
+r133 | arnaud_roques | 2011-10-11 14:09:13 +0300 (An, 11 Spa 2011) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r131 | arnaud_roques | 2011-10-11 14:08:40 +0300 (An, 11 Spa 2011) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7363
+------------------------------------------------------------------------
+r130 | arnaud_roques | 2011-10-11 13:36:22 +0300 (An, 11 Spa 2011) | 1 line
+
+Version 7363
+------------------------------------------------------------------------
+r129 | arnaud_roques | 2011-10-06 19:58:20 +0300 (Kt, 06 Spa 2011) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r127 | arnaud_roques | 2011-10-06 19:57:49 +0300 (Kt, 06 Spa 2011) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7344
+------------------------------------------------------------------------
+r126 | arnaud_roques | 2011-10-06 19:48:45 +0300 (Kt, 06 Spa 2011) | 1 line
+
+Version 7344
+------------------------------------------------------------------------
+r125 | arnaud_roques | 2011-09-22 21:55:23 +0300 (Kt, 22 Rgs 2011) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r123 | arnaud_roques | 2011-09-22 21:54:53 +0300 (Kt, 22 Rgs 2011) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7284
+------------------------------------------------------------------------
+r122 | arnaud_roques | 2011-09-22 21:39:27 +0300 (Kt, 22 Rgs 2011) | 1 line
+
+Version 7284
+------------------------------------------------------------------------
+r121 | arnaud_roques | 2011-09-22 21:29:49 +0300 (Kt, 22 Rgs 2011) | 1 line
+
+Version 7284
+------------------------------------------------------------------------
+r120 | arnaud_roques | 2011-09-20 14:14:19 +0300 (An, 20 Rgs 2011) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r118 | arnaud_roques | 2011-09-20 14:13:48 +0300 (An, 20 Rgs 2011) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7255
+------------------------------------------------------------------------
+r117 | arnaud_roques | 2011-09-20 13:43:43 +0300 (An, 20 Rgs 2011) | 1 line
+
+Version 7255
+------------------------------------------------------------------------
+r116 | arnaud_roques | 2011-09-08 13:58:40 +0300 (Kt, 08 Rgs 2011) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r114 | arnaud_roques | 2011-09-08 13:58:10 +0300 (Kt, 08 Rgs 2011) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7232
+------------------------------------------------------------------------
+r113 | arnaud_roques | 2011-09-08 13:44:38 +0300 (Kt, 08 Rgs 2011) | 1 line
+
+Version 7232
+------------------------------------------------------------------------
+r112 | arnaud_roques | 2011-09-06 19:49:11 +0300 (An, 06 Rgs 2011) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r110 | arnaud_roques | 2011-09-06 19:48:40 +0300 (An, 06 Rgs 2011) | 1 line
+
+[maven-release-plugin] prepare release plantuml-7177
+------------------------------------------------------------------------
+r109 | arnaud_roques | 2011-09-06 13:54:06 +0300 (An, 06 Rgs 2011) | 1 line
+
+Version 7177
+------------------------------------------------------------------------
+r108 | arnaud_roques | 2011-08-08 21:01:57 +0300 (Pr, 08 Rgp 2011) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r106 | arnaud_roques | 2011-08-08 21:01:25 +0300 (Pr, 08 Rgp 2011) | 1 line
+
+[maven-release-plugin] prepare release plantuml-6939
+------------------------------------------------------------------------
+r105 | arnaud_roques | 2011-08-08 20:55:04 +0300 (Pr, 08 Rgp 2011) | 1 line
+
+version 6939
+------------------------------------------------------------------------
+r104 | arnaud_roques | 2011-05-23 23:18:31 +0300 (Pr, 23 Geg 2011) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r102 | arnaud_roques | 2011-05-23 23:17:53 +0300 (Pr, 23 Geg 2011) | 1 line
+
+[maven-release-plugin] prepare release plantuml-6703
+------------------------------------------------------------------------
+r101 | arnaud_roques | 2011-05-23 23:09:08 +0300 (Pr, 23 Geg 2011) | 1 line
+
+Version 6703
+------------------------------------------------------------------------
+r100 | arnaud_roques | 2011-05-11 23:50:00 +0300 (Tr, 11 Geg 2011) | 1 line
+
+Version 6677
+------------------------------------------------------------------------
+r99 | arnaud_roques | 2011-04-19 23:24:42 +0300 (An, 19 Bal 2011) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r97 | arnaud_roques | 2011-04-19 23:24:08 +0300 (An, 19 Bal 2011) | 1 line
+
+[maven-release-plugin] prepare release plantuml-6487
+------------------------------------------------------------------------
+r96 | arnaud_roques | 2011-04-19 20:01:02 +0300 (An, 19 Bal 2011) | 1 line
+
+Version 6487
+------------------------------------------------------------------------
+r95 | arnaud_roques | 2011-03-30 22:04:18 +0300 (Tr, 30 Kov 2011) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r93 | arnaud_roques | 2011-03-30 22:03:43 +0300 (Tr, 30 Kov 2011) | 1 line
+
+[maven-release-plugin] prepare release plantuml-6288
+------------------------------------------------------------------------
+r92 | arnaud_roques | 2011-03-30 21:56:08 +0300 (Tr, 30 Kov 2011) | 1 line
+
+Version 6288
+------------------------------------------------------------------------
+r91 | arnaud_roques | 2011-03-26 14:48:08 +0200 (Št, 26 Kov 2011) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r89 | arnaud_roques | 2011-03-26 14:47:29 +0200 (Št, 26 Kov 2011) | 1 line
+
+[maven-release-plugin] prepare release plantuml-6242
+------------------------------------------------------------------------
+r88 | arnaud_roques | 2011-03-26 14:39:28 +0200 (Št, 26 Kov 2011) | 1 line
+
+version 6242
+------------------------------------------------------------------------
+r87 | arnaud_roques | 2011-03-20 23:38:30 +0200 (Sk, 20 Kov 2011) | 1 line
+
+Version 6210
+------------------------------------------------------------------------
+r86 | arnaud_roques | 2011-02-23 23:25:10 +0200 (Tr, 23 Vas 2011) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r84 | arnaud_roques | 2011-02-23 23:24:37 +0200 (Tr, 23 Vas 2011) | 1 line
+
+[maven-release-plugin] prepare release plantuml-6141
+------------------------------------------------------------------------
+r83 | arnaud_roques | 2011-02-23 23:12:18 +0200 (Tr, 23 Vas 2011) | 1 line
+
+Version 6141
+------------------------------------------------------------------------
+r82 | arnaud_roques | 2011-02-14 14:16:33 +0200 (Pr, 14 Vas 2011) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r80 | arnaud_roques | 2011-02-14 14:15:28 +0200 (Pr, 14 Vas 2011) | 1 line
+
+[maven-release-plugin] prepare release plantuml-6121
+------------------------------------------------------------------------
+r79 | arnaud_roques | 2011-02-14 14:01:49 +0200 (Pr, 14 Vas 2011) | 1 line
+
+Version 6121
+------------------------------------------------------------------------
+r78 | arnaud_roques | 2011-01-29 17:25:13 +0200 (Št, 29 Sau 2011) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r76 | arnaud_roques | 2011-01-29 17:24:35 +0200 (Št, 29 Sau 2011) | 1 line
+
+[maven-release-plugin] prepare release plantuml-6085
+------------------------------------------------------------------------
+r75 | arnaud_roques | 2011-01-29 17:15:26 +0200 (Št, 29 Sau 2011) | 1 line
+
+Version 6085
+------------------------------------------------------------------------
+r74 | arnaud_roques | 2011-01-25 13:45:58 +0200 (An, 25 Sau 2011) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r72 | arnaud_roques | 2011-01-25 13:45:19 +0200 (An, 25 Sau 2011) | 1 line
+
+[maven-release-plugin] prepare release plantuml-6055
+------------------------------------------------------------------------
+r71 | arnaud_roques | 2011-01-25 13:40:30 +0200 (An, 25 Sau 2011) | 1 line
+
+Version 6055
+------------------------------------------------------------------------
+r70 | arnaud_roques | 2011-01-24 21:08:50 +0200 (Pr, 24 Sau 2011) | 1 line
+
+[maven-release-plugin] prepare for next development iteration
+------------------------------------------------------------------------
+r68 | arnaud_roques | 2011-01-24 21:08:11 +0200 (Pr, 24 Sau 2011) | 1 line
+
+[maven-release-plugin] prepare release plantuml-6035
+------------------------------------------------------------------------
+r67 | arnaud_roques | 2011-01-24 21:06:06 +0200 (Pr, 24 Sau 2011) | 1 line
+
+
+------------------------------------------------------------------------
+r64 | arnaud_roques | 2011-01-24 20:39:18 +0200 (Pr, 24 Sau 2011) | 1 line
+
+
+------------------------------------------------------------------------
+r63 | arnaud_roques | 2011-01-24 14:42:44 +0200 (Pr, 24 Sau 2011) | 1 line
+
+[maven-release-plugin] prepare release plantuml-6035
+------------------------------------------------------------------------
+r62 | arnaud_roques | 2011-01-23 21:38:44 +0200 (Sk, 23 Sau 2011) | 1 line
+
+Version 6035
+------------------------------------------------------------------------
+r61 | arnaud_roques | 2011-01-13 23:52:52 +0200 (Kt, 13 Sau 2011) | 1 line
+
+
+------------------------------------------------------------------------
+r60 | arnaud_roques | 2011-01-12 21:04:38 +0200 (Tr, 12 Sau 2011) | 1 line
+
+
+------------------------------------------------------------------------
+r59 | arnaud_roques | 2011-01-11 09:42:50 +0200 (An, 11 Sau 2011) | 1 line
+
+
+------------------------------------------------------------------------
+r58 | arnaud_roques | 2011-01-09 21:02:04 +0200 (Sk, 09 Sau 2011) | 1 line
+
+
+------------------------------------------------------------------------
+r57 | arnaud_roques | 2011-01-05 09:18:21 +0200 (Tr, 05 Sau 2011) | 1 line
+
+
+------------------------------------------------------------------------
+r56 | arnaud_roques | 2010-12-19 14:40:42 +0200 (Sk, 19 Grd 2010) | 1 line
+
+Version 5826
+------------------------------------------------------------------------
+r55 | arnaud_roques | 2010-12-02 22:47:00 +0200 (Kt, 02 Grd 2010) | 1 line
+
+
+------------------------------------------------------------------------
+r54 | arnaud_roques | 2010-11-25 23:12:48 +0200 (Kt, 25 Lap 2010) | 1 line
+
+
+------------------------------------------------------------------------
+r53 | arnaud_roques | 2010-11-02 21:04:28 +0200 (An, 02 Lap 2010) | 1 line
+
+
+------------------------------------------------------------------------
+r52 | arnaud_roques | 2010-10-29 13:43:22 +0300 (Pn, 29 Spa 2010) | 1 line
+
+
+------------------------------------------------------------------------
+r51 | arnaud_roques | 2010-10-24 19:09:52 +0300 (Sk, 24 Spa 2010) | 1 line
+
+
+------------------------------------------------------------------------
+r50 | arnaud_roques | 2010-10-19 14:43:11 +0300 (An, 19 Spa 2010) | 1 line
+
+
+------------------------------------------------------------------------
+r49 | arnaud_roques | 2010-10-09 13:21:06 +0300 (Št, 09 Spa 2010) | 1 line
+
+
+------------------------------------------------------------------------
+r48 | arnaud_roques | 2010-09-26 16:07:41 +0300 (Sk, 26 Rgs 2010) | 1 line
+
+
+------------------------------------------------------------------------
+r47 | arnaud_roques | 2010-09-08 21:13:42 +0300 (Tr, 08 Rgs 2010) | 1 line
+
+
+------------------------------------------------------------------------
+r46 | arnaud_roques | 2010-08-12 20:31:31 +0300 (Kt, 12 Rgp 2010) | 1 line
+
+
+------------------------------------------------------------------------
+r45 | arnaud_roques | 2010-08-11 00:41:42 +0300 (Tr, 11 Rgp 2010) | 1 line
+
+
+------------------------------------------------------------------------
+r44 | arnaud_roques | 2010-07-18 20:21:43 +0300 (Sk, 18 Lie 2010) | 1 line
+
+
+------------------------------------------------------------------------
+r43 | arnaud_roques | 2010-06-27 20:12:05 +0300 (Sk, 27 Bir 2010) | 1 line
+
+Version 4969
+------------------------------------------------------------------------
+r42 | arnaud_roques | 2010-06-25 22:56:37 +0300 (Pn, 25 Bir 2010) | 1 line
+
+
+------------------------------------------------------------------------
+r41 | arnaud_roques | 2010-06-23 00:23:11 +0300 (Tr, 23 Bir 2010) | 1 line
+
+Version 4923
+------------------------------------------------------------------------
+r40 | arnaud_roques | 2010-06-19 01:30:18 +0300 (Št, 19 Bir 2010) | 1 line
+
+Minor bug correction
+------------------------------------------------------------------------
+r39 | arnaud_roques | 2010-06-18 20:25:55 +0300 (Pn, 18 Bir 2010) | 1 line
+
+Move build.xml at the right place
+------------------------------------------------------------------------
+r38 | arnaud_roques | 2010-06-17 21:13:43 +0300 (Kt, 17 Bir 2010) | 1 line
+
+Version 4860
+------------------------------------------------------------------------
+r37 | arnaud_roques | 2010-06-17 14:31:58 +0300 (Kt, 17 Bir 2010) | 1 line
+
+Importation of version 4848
+------------------------------------------------------------------------
+r36 | arnaud_roques | 2010-06-17 14:13:48 +0300 (Kt, 17 Bir 2010) | 1 line
+
+
+------------------------------------------------------------------------
+r35 | arnaud_roques | 2009-10-28 16:41:49 +0200 (Tr, 28 Spa 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r34 | arnaud_roques | 2009-10-22 13:37:49 +0300 (Kt, 22 Spa 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r33 | arnaud_roques | 2009-10-14 00:00:53 +0300 (Tr, 14 Spa 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r32 | arnaud_roques | 2009-10-13 15:06:34 +0300 (An, 13 Spa 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r31 | arnaud_roques | 2009-10-13 15:03:46 +0300 (An, 13 Spa 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r30 | arnaud_roques | 2009-07-04 11:54:21 +0300 (Št, 04 Lie 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r29 | arnaud_roques | 2009-07-04 11:44:44 +0300 (Št, 04 Lie 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r28 | arnaud_roques | 2009-07-04 11:41:27 +0300 (Št, 04 Lie 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r27 | arnaud_roques | 2009-07-04 11:40:33 +0300 (Št, 04 Lie 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r26 | arnaud_roques | 2009-07-04 10:54:06 +0300 (Št, 04 Lie 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r25 | arnaud_roques | 2009-07-04 10:53:15 +0300 (Št, 04 Lie 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r24 | arnaud_roques | 2009-06-16 00:11:04 +0300 (An, 16 Bir 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r23 | arnaud_roques | 2009-06-16 00:07:10 +0300 (An, 16 Bir 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r22 | arnaud_roques | 2009-06-16 00:06:42 +0300 (An, 16 Bir 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r21 | arnaud_roques | 2009-06-16 00:05:57 +0300 (An, 16 Bir 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r20 | arnaud_roques | 2009-06-16 00:05:14 +0300 (An, 16 Bir 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r19 | arnaud_roques | 2009-06-15 23:58:46 +0300 (Pr, 15 Bir 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r18 | arnaud_roques | 2009-06-01 23:31:35 +0300 (Pr, 01 Bir 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r17 | arnaud_roques | 2009-06-01 23:20:43 +0300 (Pr, 01 Bir 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r16 | arnaud_roques | 2009-05-25 22:21:34 +0300 (Pr, 25 Geg 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r15 | arnaud_roques | 2009-05-19 00:40:31 +0300 (An, 19 Geg 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r14 | arnaud_roques | 2009-05-12 13:54:23 +0300 (An, 12 Geg 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r13 | arnaud_roques | 2009-05-07 23:25:38 +0300 (Kt, 07 Geg 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r12 | arnaud_roques | 2009-05-06 20:51:00 +0300 (Tr, 06 Geg 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r11 | arnaud_roques | 2009-05-05 00:17:20 +0300 (An, 05 Geg 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r10 | arnaud_roques | 2009-04-30 13:59:33 +0300 (Kt, 30 Bal 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r9 | arnaud_roques | 2009-04-29 22:01:35 +0300 (Tr, 29 Bal 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r8 | arnaud_roques | 2009-04-27 23:48:35 +0300 (Pr, 27 Bal 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r7 | arnaud_roques | 2009-04-27 23:42:24 +0300 (Pr, 27 Bal 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r6 | arnaud_roques | 2009-04-25 22:11:35 +0300 (Št, 25 Bal 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r5 | arnaud_roques | 2009-04-25 17:27:26 +0300 (Št, 25 Bal 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r4 | arnaud_roques | 2009-04-25 11:03:26 +0300 (Št, 25 Bal 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r3 | arnaud_roques | 2009-04-25 10:56:52 +0300 (Št, 25 Bal 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r2 | arnaud_roques | 2009-04-22 20:56:44 +0300 (Tr, 22 Bal 2009) | 1 line
+
+
+------------------------------------------------------------------------
+r1 | arnaud_roques | 2009-04-22 20:51:32 +0300 (Tr, 22 Bal 2009) | 1 line
+
+
+------------------------------------------------------------------------
