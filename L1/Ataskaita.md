@@ -2,9 +2,9 @@
 
 [TOC]
 
-##Tikslas
+## Tikslas 
 Susipažinti su pagrindinėmis programų išeities teksto charakteristikomis (metrikomis). Suprasti metrikų svarbą programų priežiūros kontekste. Atlikti paveldėtinės sistemos charakteristikų tyrimą.
-##Teorinė dalis
+## Teorinė dalis
  -   Programos prižiūrimumas   -- programų sistemos arba jos komponento modifikavimo lengvumas siekaint ištaisyti klaidas, pagerinti charakteristikas arba pritaikyti prie pasikeitusios aplinkos. Programos prižiūrimumas yra tiesiogiai proporcingas jos sudėtingumui.
  -   Sistemos sudėtingumas   -- tai sistemos charakteristika, kuri yra tiesiogiai proporcinga sistemos supratimui, kurio reikia norint atlikti sistemos pakeitimus.
  -   Programų metrika   -- tai programos arba jos dalies tam tikros savybės (charakteristikos) kiekybinė (išmatuojama) išraiška.
@@ -24,8 +24,8 @@ Dėsniai apibrėžia priežastis, kurios motyvuoja naujos programinės įrangos 
    7. Kokybės mažėjimo -- sistemos kokybė kris nebent bus kruopščiai prižiūrėta ir pritaikyta aplinkos pokyčiams;
    8. Evoliucinių procesų grįžtamojo ryšio -- PĮ evoliucija neįmanoma be grįžtamojo ryšio. Evoliuciniai procesai yra daugiaagenčiai, daugiasluoksniai, daugiacikliai su grįžtamuoju ryšiu.
 
-###Pagrindinės metrikų grupės
-####1. Dydžio metrikos
+### Pagrindinės metrikų grupės
+#### 1. Dydžio metrikos
 Sistemos klasių, klasių metodų, funkcijų, modulių, kintamųjų ar kt. skaičius; programos dydis kodo eilutėmis (LOC), komentarų kiekis (COM);
 
 Programos modulio (klasės, komponento) sudėtingumas yra žemas, jei jo dydis yra mažesnis nei 100 LOC. Komentarų kiekis apskaičiuojamas kaip komentarų eilučių santykis su kodo eilutėmis (procentais)
@@ -179,7 +179,47 @@ Taip pat kiekvienai klasei papildomai apskaičiuojama (Ne pagal *Chidamber ir *K
 
 # Rezultatai
 
-Globalūs (bendrieji) rezultatai yra pateikiami [1 priede](#globalus-rezultatai). Pagal rezultatus nustatomos
+Globalūs (bendrieji) rezultatai yra pateikiami [1 priede](#globalus-rezultatai). Pagal rezultatus nustatomos ir įvertinamos (yra mažiau, daugiau ar apytiksliai tiek, kiek apibrėžiama tos metrikos riba) anksčiau minėtos metrikos.
+Reikšmės suapvalintos iki 2 sk. po kablelio.
+## 1. Dydžio metrikos
+
+|Metrika      |Vertė|
+|-------------|-----|
+|Abstrakčių klasių kiekis|29|
+|Vidutinis metodų abstrakčioje klasėje kiekis|12.52|
+|Modulių kiekis|1718|
+|Viso išeities teksto eilučių|78673|
+|Viso vykdomo išeities teksto eilučių|97092|
+
+Klasių sudėtingumas pagal LOC kiekį jose (žemas < 100; vidutinis 100 - 200; didelis 200+):
+
+|Kiekis|% nuo visų|Sudėtingumas|
+|------|----------|------------|
+|1425  |88.18%    | Žemas      |
+|136   |8.42%     | Vidutinis  |
+|55    |3.40%     | Didelis    |
+|Viso  |
+|1616  |          |            |
+
+## 2. Objektinės sudėtingumo metrikos
+Globalios vidutinės reikšmės:
+
+
+|Metrika|Trumpinys|Vertė|Vertinimas|
+|-|-|-|-|
+|Vidutinis metodų skaičius klasėje|WMC|$6.31$|geras $<20$|
+|Klasės turinčios daugiau nei 24 metodus|WMC|$44$|geras $2.09%$|
+|Paveldėjimo medžio gylis|DIT|$0.78$|geras|
+|Klasės, kurių paveldėjimo gylis $>5$|DIT|$8$|prastas|
+|Vaikų skaičius|NOC|$0.31$|prastas|
+|Klasės su $>=10$ vaikų|NOC|$19$|geras|
+|Jungumas tarp klasių|CBO|$7.18$|geras $<14$|
+|Klasės, kur jungumas $>14$|CBO|$333$|labai prastas|
+|Klasės atsakas|RFC|$20.23$|geras $<50$|
+|Klasės, kurių atsakas $>=50$|RFC|$151$|labai prastas|
+|Metodų rišlumo stoka|LCOM1|$25.82$|labai prastas $>5$|
+|Metodai, kurių rišlumo stoka $>5$|LCOM1|$707$|labai prastas $>5$|
+|Projekto sudėtingumas|DES|$9.64$|geras|
 
 # Išvados
 
