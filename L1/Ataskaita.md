@@ -190,254 +190,78 @@ Globalūs (bendrieji) rezultatai yra pateikiami [1 priede](#globalus-rezultatai)
 ###Globalūs rezultatai*
 * - realiai metrikos pavadinimai yra atskirti "_" simboliu, tačiau taip formatuojant lentelę būna per didelis plotis, todėl "_" pakeitus tarpais lentelė sutelpa ir viskas pateikiama A4 lape.
 
-|Metrika|Vertė|Metrika|Vertė|
-|-------|-----|-------|-----|
-|acc kurtosis|228.547982459137|acc mean|5.01105937136205|
-|acc mode|0|acc quantile lower|0|
-|acc quantile max|525|acc quantile median|0|
-|acc quantile min|0|acc quantile ninety five|21|
-|acc quantile upper|2|acc skewness|13.0810811376735|
-|acc standard deviation|23.1772033414368|acc sum|8609|
-|acc variance|537.182754730311|accm kurtosis|140.626333942121|
-|accm mean|1.61211507812085|accm mode|1|
-|accm quantile lower|1|accm quantile max|31.25|
-|accm quantile median|1.25|accm quantile min|0|
-|accm quantile ninety five|3.5|accm quantile upper|2|
-|accm skewness|8.20706594888645|accm standard deviation|1.36815325250871|
-|accm sum|2769.61370421161|accm variance|1.87184332235016|
-|amloc kurtosis|53.2135822384211|amloc mean|7.61949709834696|
-|amloc mode|1|amloc quantile lower|3.5|
-|amloc quantile max|120.25|amloc quantile median|6|
-|amloc quantile min|0|amloc quantile ninety five|19.25|
-|amloc quantile upper|9.70238095238095|amloc skewness|5.1215489416558|
-|amloc standard deviation|7.75329005542143|amloc sum|13090.2960149601|
-|amloc variance|60.1135066834968|an kurtosis|0|
-|an mean|0|an mode|0|
-|an quantile lower|0|an quantile max|0|
-|an quantile median|0|an quantile min|0|
-|an quantile ninety five|0|an quantile upper|0|
-|an skewness|0|an standard deviation|0|
-|an sum|0|an variance|0|
-|anpm kurtosis|6.94871156336281|anpm mean|1.19285010990947|
-|anpm mode|1|anpm quantile lower|0.6|
-|anpm quantile max|6|anpm quantile median|1|
-|anpm quantile min|0|anpm quantile ninety five|3|
-|anpm quantile upper|1.5|anpm skewness|2.15581463068434|
-|anpm standard deviation|1.00848097957434|anpm sum|2049.31648882447|
-|anpm variance|1.01703388616321|asom kurtosis|0|
-|asom mean|0|asom mode|0|
-|asom quantile lower|0|asom quantile max|0|
-|asom quantile median|0|asom quantile min|0|
-|asom quantile ninety five|0|asom quantile upper|0|
-|asom skewness|0|asom standard deviation|0|
-|asom sum|0|asom variance|0|
-|auv kurtosis|0|auv mean|0|
-|auv mode|0|auv quantile lower|0|
-|auv quantile max|0|auv quantile median|0|
-|auv quantile min|0|auv quantile ninety five|0|
-|auv quantile upper|0|auv skewness|0|
-|auv standard deviation|0|auv sum|0|
-|auv variance|0|bd kurtosis|0|
-|bd mean|0|bd mode|0|
-|bd quantile lower|0|bd quantile max|0|
-|bd quantile median|0|bd quantile min|0|
-|bd quantile ninety five|0|bd quantile upper|0|
-|bd skewness|0|bd standard deviation|0|
-|bd sum|0|bd variance|0|
-|bf kurtosis|0|bf mean|0|
-|bf mode|0|bf quantile lower|0|
-|bf quantile max|0|bf quantile median|0|
-|bf quantile min|0|bf quantile ninety five|0|
-|bf quantile upper|0|bf skewness|0|
-|bf standard deviation|0|bf sum|0|
-|bf variance|0|cbo kurtosis|-1.30741881857161|
-|cbo mean|336.78812572759|cbo mode|34|
-|cbo quantile lower|177.5|cbo quantile max|611|
-|cbo quantile median|337|cbo quantile min|1|
-|cbo quantile ninety five|604|cbo quantile upper|521|
-|cbo skewness|-0.102184558545387|cbo standard deviation|183.633521361426|
-|cbo sum|578602|cbo variance|33721.2701675975|
-|change cost|0.01|da kurtosis|0|
-|da mean|0|da mode|0|
-|da quantile lower|0|da quantile max|0|
-|da quantile median|0|da quantile min|0|
-|da quantile ninety five|0|da quantile upper|0|
-|da skewness|0|da standard deviation|0|
-|da sum|0|da variance|0|
-|dbz kurtosis|0|dbz mean|0|
-|dbz mode|0|dbz quantile lower|0|
-|dbz quantile max|0|dbz quantile median|0|
-|dbz quantile min|0|dbz quantile ninety five|0|
-|dbz quantile upper|0|dbz skewness|0|
-|dbz standard deviation|0|dbz sum|0|
-|dbz variance|0|df kurtosis|0|
-|df mean|0|df mode|0|
-|df quantile lower|0|df quantile max|0|
-|df quantile median|0|df quantile min|0|
-|df quantile ninety five|0|df quantile upper|0|
-|df skewness|0|df standard deviation|0|
-|df sum|0|df variance|0|
-|dit kurtosis|1.03513500873182|dit mean|1.14144353899884|
-|dit mode|0|dit quantile lower|0|
-|dit quantile max|6|dit quantile median|1|
-|dit quantile min|0|dit quantile ninety five|4|
-|dit quantile upper|2|dit skewness|1.14854868315941|
-|dit standard deviation|1.20729418240917|dit sum|1961|
-|dit variance|1.45755924287902|dnp kurtosis|0|
-|dnp mean|0|dnp mode|0|
-|dnp quantile lower|0|dnp quantile max|0|
-|dnp quantile median|0|dnp quantile min|0|
-|dnp quantile ninety five|0|dnp quantile upper|0|
-|dnp skewness|0|dnp standard deviation|0|
-|dnp sum|0|dnp variance|0|
-|dupv kurtosis|0|dupv mean|0|
-|dupv mode|0|dupv quantile lower|0|
-|dupv quantile max|0|dupv quantile median|0|
-|dupv quantile min|0|dupv quantile ninety five|0|
-|dupv quantile upper|0|dupv skewness|0|
-|dupv standard deviation|0|dupv sum|0|
-|dupv variance|0|fgbo kurtosis|0|
-|fgbo mean|0|fgbo mode|0|
-|fgbo quantile lower|0|fgbo quantile max|0|
-|fgbo quantile median|0|fgbo quantile min|0|
-|fgbo quantile ninety five|0|fgbo quantile upper|0|
-|fgbo skewness|0|fgbo standard deviation|0|
-|fgbo sum|0|fgbo variance|0|
-|lcom4 kurtosis|117.359947801532|lcom4 mean|1.92142025611176|
-|lcom4 mode|1|lcom4 quantile lower|1|
-|lcom4 quantile max|46|lcom4 quantile median|1|
-|lcom4 quantile min|0|lcom4 quantile ninety five|5|
-|lcom4 quantile upper|2|lcom4 skewness|8.48281078722283|
-|lcom4 standard deviation|2.3808094792925|lcom4 sum|3301|
-|lcom4 variance|5.66825377668904|loc kurtosis|28.9038576281626|
-|loc mean|45.7933643771828|loc mode|0|
-|loc quantile lower|10|loc quantile max|807|
-|loc quantile median|25|loc quantile min|0|
-|loc quantile ninety five|156|loc quantile upper|53|
-|loc skewness|4.45804025680692|loc standard deviation|68.7162238494271|
-|loc sum|78673|loc variance|4721.91942012458|
-|mlk kurtosis|0|mlk mean|0|
-|mlk mode|0|mlk quantile lower|0|
-|mlk quantile max|0|mlk quantile median|0|
-|mlk quantile min|0|mlk quantile ninety five|0|
-|mlk quantile upper|0|mlk skewness|0|
-|mlk standard deviation|0|mlk sum|0|
-|mlk variance|0|mmloc kurtosis|52.8439436071371|
-|mmloc mean|17.1618160651921|mmloc mode|1|
-|mmloc quantile lower|5|mmloc quantile max|389|
-|mmloc quantile median|11|mmloc quantile min|0|
-|mmloc quantile ninety five|55|mmloc quantile upper|22|
-|mmloc skewness|5.09134615902239|mmloc standard deviation|22.6094569862887|
-|mmloc sum|29484|mmloc variance|511.187545214838|
-|noa kurtosis|103.642975025057|noa mean|2.25087310826542|
-|noa mode|0|noa quantile lower|0|
-|noa quantile max|72|noa quantile median|1|
-|noa quantile min|0|noa quantile ninety five|8|
-|noa quantile upper|3|noa skewness|7.69531435827785|
-|noa standard deviation|4.04336378947464|noa sum|3867|
-|noa variance|16.3487907340347|noc kurtosis|122.978840945913|
-|noc mean|0.547147846332945|noc mode|0|
-|noc quantile lower|0|noc quantile max|49|
-|noc quantile median|0|noc quantile min|0|
-|noc quantile ninety five|3|noc quantile upper|0|
-|noc skewness|9.24325632053896|noc standard deviation|2.51306209351755|
-|noc sum|940|noc variance|6.3154810858748|
-|nom kurtosis|22.5647654078428|nom mean|5.64726426076834|
-|nom mode|2|nom quantile lower|2|
-|nom quantile max|70|nom quantile median|4|
-|nom quantile min|0|nom quantile ninety five|16|
-|nom quantile upper|7|nom skewness|3.87893287064606|
-|nom standard deviation|6.56929561002518|nom sum|9702|
-|nom variance|43.1556448118961|npa kurtosis|264.982523296634|
-|npa mean|0.155995343422584|npa mode|0|
-|npa quantile lower|0|npa quantile max|32|
-|npa quantile median|0|npa quantile min|0|
-|npa quantile ninety five|1|npa quantile upper|0|
-|npa skewness|15.0568825738445|npa standard deviation|1.38175844681206|
-|npa sum|268|npa variance|1.90925640533649|
-|npm kurtosis|28.9256145365752|npm mean|4.21012805587893|
-|npm mode|1|npm quantile lower|1|
-|npm quantile max|64|npm quantile median|3|
-|npm quantile min|0|npm quantile ninety five|13|
-|npm quantile upper|5|npm skewness|4.35956941928052|
-|npm standard deviation|5.43008422221552|npm sum|7233|
-|npm variance|29.4858146603539|obaa kurtosis|0|
-|obaa mean|0|obaa mode|0|
-|obaa quantile lower|0|obaa quantile max|0|
-|obaa quantile median|0|obaa quantile min|0|
-|obaa quantile ninety five|0|obaa quantile upper|0|
-|obaa skewness|0|obaa standard deviation|0|
-|obaa sum|0|obaa variance|0|
-|osf kurtosis|0|osf mean|0|
-|osf mode|0|osf quantile lower|0|
-|osf quantile max|0|osf quantile median|0|
-|osf quantile min|0|osf quantile ninety five|0|
-|osf quantile upper|0|osf skewness|0|
-|osf standard deviation|0|osf sum|0|
-|osf variance|0|pitfc kurtosis|0|
-|pitfc mean|0|pitfc mode|0|
-|pitfc quantile lower|0|pitfc quantile max|0|
-|pitfc quantile median|0|pitfc quantile min|0|
-|pitfc quantile ninety five|0|pitfc quantile upper|0|
-|pitfc skewness|0|pitfc standard deviation|0|
-|pitfc sum|0|pitfc variance|0|
-|rfc kurtosis|26.3816035171695|rfc mean|20.2846332945285|
-|rfc mode|0|rfc quantile lower|5|
-|rfc quantile max|299|rfc quantile median|12|
-|rfc quantile min|0|rfc quantile ninety five|69|
-|rfc quantile upper|25|rfc skewness|4.18692689369344|
-|rfc standard deviation|28.2098985745823|rfc sum|34849|
-|rfc variance|795.798377588221|rogu kurtosis|0|
-|rogu mean|0|rogu mode|0|
-|rogu quantile lower|0|rogu quantile max|0|
-|rogu quantile median|0|rogu quantile min|0|
-|rogu quantile ninety five|0|rogu quantile upper|0|
-|rogu skewness|0|rogu standard deviation|0|
-|rogu sum|0|rogu variance|0|
-|rsva kurtosis|0|rsva mean|0|
-|rsva mode|0|rsva quantile lower|0|
-|rsva quantile max|0|rsva quantile median|0|
-|rsva quantile min|0|rsva quantile ninety five|0|
-|rsva quantile upper|0|rsva skewness|0|
-|rsva standard deviation|0|rsva sum|0|
-|rsva variance|0|saigv kurtosis|0|
-|saigv mean|0|saigv mode|0|
-|saigv quantile lower|0|saigv quantile max|0|
-|saigv quantile median|0|saigv quantile min|0|
-|saigv quantile ninety five|0|saigv quantile upper|0|
-|saigv skewness|0|saigv standard deviation|0|
-|saigv sum|0|saigv variance|0|
-|sc kurtosis|103.938670255463|sc mean|630.873108265425|
-|sc mode|0|sc quantile lower|210|
-|sc quantile max|17655|sc quantile median|424|
-|sc quantile min|0|sc quantile ninety five|1960|
-|sc quantile upper|682|sc skewness|7.50382351104905|
-|sc standard deviation|891.727184937954|sc sum|1083840|
-|sc variance|795177.372357369|total abstract classes|29|
-|total cof|0.00291849701302391|total eloc|97092|
-|total loc|78673|total methods per abstract class|12.5172413793103|
-|total modules|1718|total modules with defined attributes|1105|
-|total modules with defined methods|1616|total nom|9702|
-|ua kurtosis|0|ua mean|0|
-|ua mode|0|ua quantile lower|0|
-|ua quantile max|0|ua quantile median|0|
-|ua quantile min|0|ua quantile ninety five|0|
-|ua quantile upper|0|ua skewness|0|
-|ua standard deviation|0|ua sum|0|
-|ua variance|0|uaf kurtosis|0|
-|uaf mean|0|uaf mode|0|
-|uaf quantile lower|0|uaf quantile max|0|
-|uaf quantile median|0|uaf quantile min|0|
-|uaf quantile ninety five|0|uaf quantile upper|0|
-|uaf skewness|0|uaf standard deviation|0|
-|uaf sum|0|uaf variance|0|
-|uav kurtosis|0|uav mean|0|
-|uav mode|0|uav quantile lower|0|
-|uav quantile max|0|uav quantile median|0|
-|uav quantile min|0|uav quantile ninety five|0|
-|uav quantile upper|0|uav skewness|0|
-|uav standard deviation|0|uav sum|0|
-|uav variance|0|||
+Metrikos:
+
+|Metrika|Pavadinimas|Paaiškinimas|
+|-------|-----------|------------|
+|$Kurt$ |Statistinis ekscesas|Skirstinio dažnių aibės viršūnės aštrumo laipsnis lyginant su normaliuoju skirstiniu|
+|$\mu$  |Vidurkis|Vidutinė reikšmė|
+|$Moda$|Moda|Dažniausia reikšmė|
+|$Q_ž$|Žemutinis kvantilis|Žemutinis tikimybės dažnis|
+|$Q_{max}$|Maksimalus kvantilis|Didžiausias tikimybės dažnis|
+|$Q_{med}$|Kvantilio mediana|Vidurinis tikimybės dažnis|
+|$Q_{min}$|Minimalus kvantilis|Mažiausias tikimybės dažnis|
+|$Q_{95}$|95% kvantilis| 95% tikimybės dažnis|
+|$Q_u$|Viršutinis kvantilis|Viršutins tikimybės dažnis|
+|$A$    |Asimetrijos koeficientas|Duomenų aibės charakteristika skirstinios grafinės funkcijos asimetriškumui|
+|$\sigma$|Standartinis nuokrypis|Atsitiktinio dydžio reikšmių slaida apie vidurkį|
+|$\Sigma$|Suma|Visa suma|
+|$\sigma^2$|Variacija|labiausiai tikėtinas eilinio matavimo vertės nukrypimas nuo vidurkio|
+
+
+|Metrika|$Kurt$|$\mu$|$Moda$|$Q_ž$|$Q_{max}$|$Q_{med}$|$Q_{min}$|$Q_{95}$|$Q_u$|$A$|$\sigma$|$\Sigma$|$\sigma^2$|
+|-------|--------|----|----|--------------|------------|---------------|------------|-----------|--------------|--------|------------------|---|--------|
+|acc|228.54|5.01|0|0|525|0|0|21|2|13.08|23.17|8609|537.18|
+|accm|140.62|1.61|1|1|31.25|1.25|0|3.5|2|8.20|1.36|2769.61|1.87|
+|amloc|53.21|7.61|1|3.5|120.25|6|0|19.25|9.70|5.12|7.75|13090.29|60.11|
+|an|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|anpm|6.94|1.19|1|0.6|6|1|0|3|1.5|2.15|1.00|2049.31|1.01|
+|asom|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|auv|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|bd|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|bf|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|cbo|-1.30|336.78|34|177.5|611|337|1|604|521|-0.10|183.63|578602|33721.27|
+|da|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|dbz|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|df|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|dit|1.03|1.14|0|0|6|1|0|4|2|1.14|1.20|1961|1.45|
+|dnp|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|dupv|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|fgbo|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|lcom4|117.35|1.92|1|1|46|1|0|5|2|8.48|2.38|3301|5.66|
+|loc|28.90|45.79|0|10|807|25|0|156|53|4.45|68.71|78673|4721.91|
+|mlk|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|mmloc|52.84|17.16|1|5|389|11|0|55|22|5.09|22.60|29484|511.18|
+|noa|103.64|2.25|0|0|72|1|0|8|3|7.69|4.04|3867|16.34|
+|noc|122.97|0.54|0|0|49|0|0|3|0|9.24|2.51|940|6.31|
+|nom|22.56|5.64|2|2|70|4|0|16|7|3.87|6.56|9702|43.15|
+|npa|264.98|0.15|0|0|32|0|0|1|0|15.05|1.38|268|1.90|
+|npm|28.92|4.21|1|1|64|3|0|13|5|4.35|5.43|7233|29.48|
+|obaa|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|osf|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|pitfc|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|rfc|26.38|20.28|0|5|299|12|0|69|25|4.18|28.20|34849|795.79|
+|rogu|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|rsva|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|saigv|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|sc|103.93|630.87|0|210|17655|424|0|1960|682|7.50|891.72|1083840|795177.37|
+|ua|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|uaf|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|uav|0|0|0|0|0|0|0|0|0|0|0|0|0|
+
+|Metrika|Vertė|
+|-------|-----|
+|total_abstract_classes|29|
+|total_cof|0.00|
+|total_eloc|97092|
+|total_loc|78673|
+|total_methods_per_abstract_class|12.51|
+|total_modules|1718|
+|total_modules_with_defined_attributes|1105|
+|total_modules_with_defined_methods|1616|
+|total_nom|9702|
+|change_cost|0.01|
+
 
 ## CKJM
 
