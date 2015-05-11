@@ -1,11 +1,28 @@
 # PlantUML kodo prižiūrimumo charakteristikų tyrimas
-## Tikslas
-Susipažinti su pagrindinėmis programų išeities teksto charakteristikomis (metrikomis). Suprasti metrikų svarbą programų priežiūros kontekste. Atlikti paveldėtinės sistemos charakteristikų tyrimą.
 
+[TOC]
+
+##Tikslas
+Susipažinti su pagrindinėmis programų išeities teksto charakteristikomis (metrikomis). Suprasti metrikų svarbą programų priežiūros kontekste. Atlikti paveldėtinės sistemos charakteristikų tyrimą.
 ##Teorinė dalis
  - __Programos prižiūrimumas__ -- programų sistemos arba jos komponento modifikavimo lengvumas siekaint ištaisyti klaidas, pagerinti charakteristikas arba pritaikyti prie pasikeitusios aplinkos. Programos prižiūrimumas yra tiesiogiai proporcingas jos sudėtingumui.
  - __Sistemos sudėtingumas__ -- tai sistemos charakteristika, kuri yra tiesiogiai proporcinga sistemos supratimui, kurio reikia norint atlikti sistemos pakeitimus.
  - __Programų metrika__ -- tai programos arba jos dalies tam tikros savybės (charakteristikos) kiekybinė (išmatuojama) išraiška.
+ - __Programų evoliucija__ -- terminas naudojamas programavimo inžinerijoje apibrėžti procesui, kuris apima pakartotinį išleisto programos atnaujinimą dėl įvairių priežasčių. 
+ - __Evoliucijos dėsningumai__ -- programų evoliucijos dėsniai yra dėsniai, kuriuos sudarė *Lehman* ir *Belady*. Šie dėsniai galioja trims programų kategorijoms:
+    - S-tipo programa -- realizuota tiksliai pagal apibrėžtas specifikacijas;
+    - P-tipo programa -- realizuota pagal vykdymo teisingumą/korektiškumą, kurį apsprendžia pats vartotojas;
+    - E-tipo programa -- realizuota realaus pasaulio problemoms. Priklauso nuo veikimo aplinkos, kuriai keičiantis tenka ir E-tipo programai keistis.
+
+Dėsniai apibrėžia priežastis, kurios motyvuoja naujos programinės įrangos kūrimą, ir priežastis, kurios lėtina programinės įrangos tobulėjimo progresą:
+   1. Nuolatinių pokyčių -- programa duotoje aplinkoje būtinai privalo keistis arba ji taps vis mažiau naudinga;
+   2. Augančio sudėtingumo -- kai tobulinama programa keičiasi, jos struktūra tampa vis sudėtingesnė. Tokios sistemos išsaugojimui ir supaprastinimui reikės papildomų resursų;
+   3. Didelės programos evoliucijos -- programos tobulinimas yra savireguliuojantis procesas: sistemos atributai apytikriai yra invariantiški kiekvienai versijai;
+   4. Organizacinio stabilumo -- programos plėtros greitis per jos gyvavimo ciklą yra apytikriai pastovus ir nepriklauso nuo skiriamų resursų;
+   5. Žinojimo (apie pakeitimus) išsaugojimo -- inkrementinis sistemos keitimas kiekvienoje versijoje yra apytikriai pastovus per visą sistemos gyvavimo ciklą;
+   6. Funkcinių galimybių nuolatinio augimo -- funkcinis turinys privalo pastoviai didėti tam, kad išlaikytų vartotojų pasitenkinimą visu sistemos gyvavimu metu;
+   7. Kokybės mažėjimo -- sistemos kokybė kris nebent bus kruopščiai prižiūrėta ir pritaikyta aplinkos pokyčiams;
+   8. Evoliucinių procesų grįžtamojo ryšio -- PĮ evoliucija neįmanoma be grįžtamojo ryšio. Evoliuciniai procesai yra daugiaagenčiai, daugiasluoksniai, daugiacikliai su grįžtamuoju ryšiu.
 
 ###Pagrindinės metrikų grupės
 ####1. Dydžio metrikos
@@ -89,14 +106,14 @@ kur $HE$ - *Halstead Effort*; $HV$ - *Halstead Volume*; $CC$ - *Cyclomatic Compl
 
 Prižiūrimumo indekso reikšmės vertinimas:
 
-**TODO: suformatuoti gražiai lentelę (išeities tekste)
 
-| MI reikšmė | Programos įvertinimas
-|-|-|
-|$>85$|Geras prižiūrimumas|
-|$65-85$|Vidutinis prižiūrimumas|
-|$0-65$|Blogas prižiūrimumas|
-|$<0$|Labai blogas programos kodas (nestruktūrizuotas, nekomentuotas)|
+| MI reikšmė | Programos įvertinimas |
+|------------|-----------------------|
+| $>85$      |    Geras prižiūrimumas|
+| $65-85$    |Vidutinis prižiūrimumas|
+| $0-65$     |   Blogas prižiūrimumas|
+| $<0$       |Labai blogas programos kodas (nestruktūrizuotas, nekomentuotas)|
+
 
 Programų keitimas atliekamas atsižvelgiant į programų sudėtingumo tyrimo rezultatus: laikoma, kad reikia atkreipti dėmesį į blogiausius 5% programos modulius (klases).
 Jeigu sistemoje yra daugiau nei 5% modulių, kurie viršija ribinę prižiūrimumo vertę, tuomet visa sistema reikalauja priežiūros.
@@ -108,8 +125,76 @@ Jeigu sistema vertinama pagal kelias metrikas, tuomet reikia atkreipti dėmesį 
 Išeities tekstas taip pat naudoja trečios šalies programinę įrangą, tačiau jų išeities tekstas nebus tiriamas.
 
 ## Analizo - programos išeities kodo tiriamoji programinė įranga
+Ši programa yra nemokamas, išplečiamas išeities teksto analizės ir vizualizacijos įrankis[^4].
+Pagal github kodo panaudos statistiką, didelę dalį užima HTML tipo failai, kurie yra naudojami vizualizacijos šablonų kūrimui. Pagrindinė programinė kalba - Perl.
+Ši programinė įranga pateikia šias metrikas:
+
+
+| Globalios metrikos | Aprašymas | Modulio metrikos | Aprašymas |
+|--------------------|-----------|------------------|-----------|
+| change_cost            |Keitimo kaina| acc              |Įcentrinių jungčių klasei|
+| total_abstract_classes |Viso abstrakčių klasių| accm |Vidutinis CC metodui|
+| total_cof |Viso jungumo faktorių| amloc |Vidutinis LOC metodui|
+| total_eloc |Viso ELOC| an |Argumentų su 'nonnull' atributu perduoda 'null'|
+| total_loc |Viso LOC| anpm |Vidutinis parametrų kiekis metodui|
+| total_methods_per_abstract_class |Metodų kiekis abstrakčioje klasėje| asom |Alokacijos 'typeof' neatitikimas|
+| total_modules |Viso modulių| auv |Priskirta vertė yra šiukšlė arba neapibrėžta (undefined)| 
+| total_modules_with_defined_attributes |Viso modulių su bent vienu atributu| bd |Blogas dealokatorius| 
+| total_modules_with_defined_methods |Viso modulių su bent vienu metodu| bf |Blogas atminties atlaisvinimas (free)| 
+| total_nom |Viso metodų| cbo |Jungumas tarp objektų|
+
+
+| Modulios metrikos | Aprašymas | Modulios metrikos | Aprašymas |
+|-------------------|-----------|-------------------|-----------|
+| da |Nepasiekiamas priskyrimas| npa |Viešų atributų kiekis|
+| dbz |Dalyba iš nulio| npm |Viešų metodų kiekis|
+| df |Pasikartojantis to paties objekto atminties atlaisvinimas (double free)| obaa |Masyvo skaitymas už rėžių|
+| dit |Paveldimumo medžio gylis| osf |Offset free|
+| dnp |Derefencijavimas null pointeriui| pitfc |Potencialiai nesaugus laikinas failas su 'mktemp' komanda|
+| dupv |Derefencijavimas null reikšmei| rfc |Atsakas klasei|
+| fgbo |Potencialus buferio perpildymas su 'gets' komanda| rogu |Operacijos rezultatas šiukšlė arba undefined|
+| lcom4 |Trūksta sąryšio metodų| rsva |Steko kintamojo adreso grąžinimas|
+| loc |LOC| saigv | Steko adresas išsaugotas globaliame kintamajame|
+| mlk |Atminties nutekėjimas| sc |Struktūrinis sudėtingumas|
+| mmloc |Didžiausias metodo LOC| ua |Undefined alokacija su 0 baitų (CERT MEM04-C; CWE-131) |
+| noa |Atributų kiekis| uaf |Naudojimas po atlaisvinimo|
+| noc |Vaikų kiekis| uav |Neaprašyto argumento reikšmė|
+| nom |Metodų kiekis|  |  |
+
+
+## CKJM - *Chidamber* ir *Kemerer* Java metrikos
+Ši programa apskaičiuojama *Chidamber* ir *Kemerer* objektines metrikas tirdami sukompiliuotus Java projektus[^5]. Apskaičiuojamos 6 metrikos kiekvienai klasei:
+
+ 1. WMC -- *Weighted Methods per Class*, metodų svoris klasei;
+ 2. DIT -- *Depth of Inheritance Tree*, paveldėjimo medžio gylis;
+ 3. NOC -- *Number of children*, vaikų kiekis;
+ 4. CBO -- *Coupling Between Object classes*, Jungumas tarp objektų klasių;
+ 5. RFC -- *Response For a Class*, atsakas klasei;
+ 6. LCOM -- *Lack of cohesion in methods*, sąryšio trūkumas metoduose.
+
+Taip pat kiekvienai klasei papildomai apskaičiuojama (Ne pagal *Chidamber ir *Kemerer* objektines metrikas):
+
+ * Ca -- *Afferent couplings* Įcentrinis jungumas;
+ * NPM -- *Number of Public Methods* Viešų metodų kiekis.
+
+# Rezultatai
+
+# Išvados
+
+# Literatūra
+
+# Priedai
+## Analizo
+
+## CKJM
 
 
 [^1]: Išeities tekstas naudotas 2015-05-04 
+
 [^2]: Versijos atrinktos pagal *subversion* repozitorijos įrašus, žr. [Priedai/history_log.txt](Priedai/history_log.txt)
+
 [^3]: http://sourceforge.net/projects/plantuml/files/ Paskutinį kartą peržiūrėta 2015-05-04
+
+[^4]: Programos svetainė http://www.analizo.org
+
+[^5]: Programos svetain4 http://www.spinellis.gr/sw/ckjm
