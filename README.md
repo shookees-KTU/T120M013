@@ -8,4 +8,4 @@ Laboratorinių darbų ataskaita talpinama taip pat atitinkamame aplanke, pvz. L1
 
 Pirmasis ir antrasis laboratoriniai darbai yra susiję, todėl bendrais resursais jie dalijasi
 
-Programų kodo metrikų programinė įranga - [Analizo](https://github.com/analizo/analizo)
+Programų kodo metrikų programinė įranga - [Analizo](http://www.analizo.org/) ir [CKJM](http://www.spinellis.gr/sw/ckjm/)
